@@ -5,7 +5,7 @@
 </p>
 
 ## premessa >
-Lascio questa piccolo spazio per un progetto nato nel 2016, pubblicato e terminato nel 2018. Presentato alla Samsung District di Milano (Dicembre 2017) e alla Sovrintendenza di Pompei(Giugno 2018) per la riqualificazione pubblica della Villa di Poppea (Oplonti) di Torre Annunziata. Tante promesse, tanto scalpore, tutti orgogliosi, dalla Sovrintendenza fino al Comune, 0 pubblicità. Il motivo, beh, lo possono sapere solo chi abita nel paese precedentemente citato...
+Lascio questa piccolo spazio per un progetto nato nel 2016, pubblicato e terminato nel 2018. Presentato alla Samsung District di Milano (Dicembre 2017) e alla Sovrintendenza di Pompei (Giugno 2018) per la riqualificazione pubblica della Villa di Poppea (Oplonti) di Torre Annunziata. Tante promesse, tanto scalpore, tutti orgogliosi, dalla Sovrintendenza fino al Comune, 0 pubblicità. Il motivo, beh, lo possono sapere solo chi abita nel paese precedentemente citato...
 
 Ora? **Abbandonato**.
 
