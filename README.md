@@ -6,6 +6,16 @@ Lascio questa piccolo spazio per un progetto nato nel 2016, pubblicato e termina
 Ora? **Abbandonato**.
 
 ## il progetto >
-► Il sito web descrive in un modo avvincente un sito archeologico. Il sito è interamente dedicato alla Villa di Poppea con contenuti multimediali di tipo 2D e a 360°. Tour immersivi nella villa danno la sensazione di muoversi realmente nel Sito Archeologico.
-► Accedere nelle sezioni Virtual Tour visitando ogni singolo Ambiente della Villa a 360° con descrizione testuale, audio e Immagini.
-► Visita "esclusiva" nella Villa B di Lucius Crassius Tertius con immagini a 360°. **ESCLUSIVA**
+Visualizza il Sito Web: 
+- Il sito web descrive in un modo avvincente un sito archeologico. Il sito è interamente dedicato alla Villa di Poppea con contenuti multimediali di tipo 2D e a 360°. Tour immersivi nella villa danno la sensazione di muoversi realmente nel Sito Archeologico. <br>
+- Accedere nelle sezioni Virtual Tour visitando ogni singolo Ambiente della Villa a 360° con descrizione testuale, audio e Immagini. <br>
+- Visita "esclusiva" nella Villa B di Lucius Crassius Tertius con immagini a 360°. **ESCLUSIVA**
+
+## main contributor >
+<a href = "https://github.com/LaErre9" > Antonio Romano </a>
+
+## ulteriori info >
+*Repository creata solo per scopi dimostrativi e illustrativi.*
+
+*I contenuti video e foto a 360° è protetto dalla vigente normativa sul diritto d'autore e delle altre norme a protezione della proprietà intellettuale.
+Si prega di non utilizzare i contenuti multimediali a 360° senza autorizzazione.*
