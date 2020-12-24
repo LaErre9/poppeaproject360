@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="it_project_title"><![CDATA[Villa di Poppea • Tour]]></data>
+  <data name="it_project_author_name"><![CDATA[AR1999]]></data>
+  <data name="it_project_author_url"><![CDATA[http://Prossimamente]]></data>
+
+
+
+  <data name="it_pano10_title"><![CDATA[Atrio • 1]]></data>
+  <data name="it_spotpoint2114_tooltip"><![CDATA[Lararium]]></data>
+  <data name="it_spotpoint7047_tooltip"><![CDATA[Porticato]]></data>
+  <data name="it_spotpoint2113_tooltip"><![CDATA[Peristilio]]></data>
+  <data name="it_spotpoint8218_tooltip"><![CDATA[Cucina]]></data>
+
+
+  <data name="it_pano8216_title"><![CDATA[Cucina • 2]]></data>
+  <data name="it_spotpoint8301_tooltip"><![CDATA[Atrium]]></data>
+  <data name="it_spotpoint8302_tooltip"><![CDATA[Triclinium]]></data>
+
+
+  <data name="it_pano8227_title"><![CDATA[Peristilio • 39]]></data>
+  <data name="it_spotpoint8306_tooltip"><![CDATA[Salone Principale]]></data>
+  <data name="it_spotpoint8310_tooltip"><![CDATA[Atrio]]></data>
+
+
+  <data name="it_pano8292_title"><![CDATA[Larario • 23]]></data>
+  <data name="it_spotpoint8817_tooltip"><![CDATA[Atrium]]></data>
+  <data name="it_spotpoint8818_tooltip"><![CDATA[Peristilio]]></data>
+
+
+  <data name="it_pano8294_title"><![CDATA[Porticato • 9]]></data>
+  <data name="it_spotpoint8830_tooltip"><![CDATA[Salone]]></data>
+  <data name="it_spotpoint8831_tooltip"><![CDATA[Peristilium]]></data>
+  <data name="it_spotpoint8832_tooltip"><![CDATA[Cubiculum]]></data>
+  <data name="it_spotpoint8833_tooltip"><![CDATA[Sala]]></data>
+  <data name="it_spotpoint8834_tooltip"><![CDATA[Peristilio]]></data>
+
+
+  <data name="it_pano8821_title"><![CDATA[Peristilio • 22]]></data>
+  <data name="it_spotpoint8848_tooltip"><![CDATA[Lararium]]></data>
+  <data name="it_spotpoint8849_tooltip"><![CDATA[Corridoio]]></data>
+  <data name="it_spotpoint8850_tooltip"><![CDATA[Porticato]]></data>
+
+
+  <data name="it_pano8839_title"><![CDATA[Cubiculum • 28]]></data>
+  <data name="it_spotpoint8876_tooltip"><![CDATA[Sala]]></data>
+  <data name="it_spotpoint8877_tooltip"><![CDATA[Porticato]]></data>
+
+
+  <data name="it_pano8840_title"><![CDATA[Peristilio • 10]]></data>
+  <data name="it_spotpoint8885_tooltip"><![CDATA[Porticato]]></data>
+  <data name="it_spotpoint8886_tooltip"><![CDATA[Corridoio]]></data>
+
+
+  <data name="it_pano8841_title"><![CDATA[Salone • 8]]></data>
+  <data name="it_spotpoint8860_tooltip"><![CDATA[Porticato]]></data>
+  <data name="it_spotpoint8861_tooltip"><![CDATA[Atrium]]></data>
+
+
+  <data name="it_pano8845_title"><![CDATA[Sala • 29]]></data>
+  <data name="it_spotpoint8869_tooltip"><![CDATA[Cubiculum]]></data>
+  <data name="it_spotpoint8870_tooltip"><![CDATA[Porticato]]></data>
+  <data name="it_spotpoint8871_tooltip"><![CDATA[Cubiculum]]></data>
+
+
+  <data name="it_pano8855_title"><![CDATA[Corridoio • 20]]></data>
+  <data name="it_spotpoint8948_tooltip"><![CDATA[Salone]]></data>
+  <data name="it_spotpoint8949_tooltip"><![CDATA[Corridoio]]></data>
+  <data name="it_spotpoint8950_tooltip"><![CDATA[Latrina - Berillo]]></data>
+
+
+  <data name="it_pano8887_title"><![CDATA[Corridoio • 11]]></data>
+  <data name="it_spotpoint8958_tooltip"><![CDATA[Salone]]></data>
+  <data name="it_spotpoint8960_tooltip"><![CDATA[Corridoio]]></data>
+  <data name="it_spotpoint8966_tooltip"><![CDATA[Peristilio]]></data>
+
+
+  <data name="it_pano8893_title"><![CDATA[Triclinio • 6]]></data>
+  <data name="it_spotpoint8897_tooltip"><![CDATA[Cucina]]></data>
+  <data name="it_spotpoint8898_tooltip"><![CDATA[Salone]]></data>
+
+
+  <data name="it_pano8902_title"><![CDATA[Salone • 5]]></data>
+  <data name="it_spotpoint8908_tooltip"><![CDATA[Triclinio]]></data>
+  <data name="it_spotpoint8910_tooltip"><![CDATA[Peristilio]]></data>
+
+
+  <data name="it_pano8912_title"><![CDATA[Peristilio • 27]]></data>
+  <data name="it_spotpoint8917_tooltip"><![CDATA[Salone]]></data>
+  <data name="it_spotpoint8918_tooltip"><![CDATA[Calidarium]]></data>
+  <data name="it_spotpoint8919_tooltip"><![CDATA[Tepidarium]]></data>
+
+
+  <data name="it_pano8921_title"><![CDATA[Tepidarium • 4]]></data>
+  <data name="it_spotpoint8931_tooltip"><![CDATA[Calidarium]]></data>
+  <data name="it_spotpoint8932_tooltip"><![CDATA[Peristilio]]></data>
+
+
+  <data name="it_pano8923_title"><![CDATA[Calidarium • 3]]></data>
+  <data name="it_spotpoint8938_tooltip"><![CDATA[Peristilio]]></data>
+  <data name="it_spotpoint8939_tooltip"><![CDATA[Tepidarium]]></data>
+
+
+  <data name="it_pano8954_title"><![CDATA[Salone • 19]]></data>
+  <data name="it_spotpoint9129_tooltip"><![CDATA[Piscina]]></data>
+  <data name="it_spotpoint9130_tooltip"><![CDATA[Corridoio]]></data>
+  <data name="it_spotpoint9131_tooltip"><![CDATA[Salone]]></data>
+  <data name="it_spotpoint9132_tooltip"><![CDATA[Affresco]]></data>
+
+
+  <data name="it_pano8956_title"><![CDATA[Latrina • Ricordo di Berillo]]></data>
+  <data name="it_spotpoint8971_tooltip"><![CDATA[Latrina]]></data>
+  <data name="it_spotpoint8972_tooltip"><![CDATA[Corridoio]]></data>
+
+
+  <data name="it_pano8967_title"><![CDATA[Salone • 12]]></data>
+  <data name="it_spotpoint9146_tooltip"><![CDATA[Corridoio]]></data>
+
+
+  <data name="it_pano8975_title"><![CDATA[Latrina • 21]]></data>
+  <data name="it_spotpoint9143_tooltip"><![CDATA[Ricordo di Berillo]]></data>
+
+
+  <data name="it_pano9134_title"><![CDATA[Affresco • 32]]></data>
+  <data name="it_spotpoint9150_tooltip"><![CDATA[Salone]]></data>
+
+
+  <data name="it_pano9135_title"><![CDATA[Salone • 18]]></data>
+  <data name="it_spotpoint9152_tooltip"><![CDATA[Piscina]]></data>
+  <data name="it_spotpoint9153_tooltip"><![CDATA[Salone]]></data>
+  <data name="it_spotpoint9154_tooltip"><![CDATA[Corridoio]]></data>
+  <data name="it_spotpoint9155_tooltip"><![CDATA[Giardino]]></data>
+  <data name="it_spotpoint9165_tooltip"><![CDATA[Affresco]]></data>
+
+
+  <data name="it_pano9138_title"><![CDATA[Piscina • 14]]></data>
+  <data name="it_spotpoint9184_tooltip"><![CDATA[Salone]]></data>
+
+
+  <data name="it_pano9158_title"><![CDATA[Giardino • 36]]></data>
+  <data name="it_spotpoint9187_tooltip"><![CDATA[Colonnato]]></data>
+  <data name="it_spotpoint9188_tooltip"><![CDATA[Salone]]></data>
+
+
+  <data name="it_pano9160_title"><![CDATA[Vividarium]]></data>
+  <data name="it_spotpoint9169_tooltip"><![CDATA[Salone]]></data>
+
+
+  <data name="it_pano9162_title"><![CDATA[Corridoio • 35]]></data>
+  <data name="it_spotpoint9173_tooltip"><![CDATA[Piscina]]></data>
+  <data name="it_spotpoint9174_tooltip"><![CDATA[Vividarium]]></data>
+  <data name="it_spotpoint9175_tooltip"><![CDATA[Salone]]></data>
+
+
+  <data name="it_pano9177_title"><![CDATA[Viridarium • 16]]></data>
+  <data name="it_spotpoint9182_tooltip"><![CDATA[Corridoio]]></data>
+
+
+  <data name="it_pano9190_title"><![CDATA[Colonnato • 38]]></data>
+  <data name="it_spotpoint9192_tooltip"><![CDATA[Giardino]]></data>
+  <data name="it_spotpoint9193_tooltip"><![CDATA[Salone Principale]]></data>
+
+
+  <data name="it_pano9197_title"><![CDATA[Salone Principale • 24]]></data>
+  <data name="it_spotpoint9201_tooltip"><![CDATA[Peristilio]]></data>
+  <data name="it_spotpoint9203_tooltip"><![CDATA[Colonnato]]></data>
+
+
+
+
+
+
+  <data name="it_logowebsiteurl"><![CDATA[]]></data>
+  <data name="it_logotooltipText"><![CDATA[Open WebSite]]></data>
+  <data name="it_controlBar_dockedThumbnailsprevSceneTip"><![CDATA[Panorama Precedente]]></data>
+  <data name="it_controlBar_dockedThumbnailsnextSceneTip"><![CDATA[Panorama successivo]]></data>
+  <data name="it_controlBar_dockedThumbnailszoomInTip"><![CDATA[Zoom avanti]]></data>
+  <data name="it_controlBar_dockedThumbnailszoomOutTip"><![CDATA[Zoom indietro]]></data>
+  <data name="it_controlBar_dockedThumbnailsmoveLeftTip"><![CDATA[Muovi a sinistra]]></data>
+  <data name="it_controlBar_dockedThumbnailsmoveRightTip"><![CDATA[Muovi a destra]]></data>
+  <data name="it_controlBar_dockedThumbnailsmoveUpTip"><![CDATA[Muovi su]]></data>
+  <data name="it_controlBar_dockedThumbnailsmoveDownTip"><![CDATA[Muovi giù]]></data>
+  <data name="it_controlBar_dockedThumbnailsopenFsTip"><![CDATA[Seleziona schermo pieno]]></data>
+  <data name="it_controlBar_dockedThumbnailscloseFsTip"><![CDATA[Esci dal pieno schermo]]></data>
+  <data name="it_controlBar_dockedThumbnailsautorotateOnTip"><![CDATA[Inizio autorotazione]]></data>
+  <data name="it_controlBar_dockedThumbnailsautorotateOffTip"><![CDATA[Ferma autorotazione]]></data>
+  <data name="it_controlBar_dockedThumbnailsdisplayHelpTip"><![CDATA[Mostra l'aiuto]]></data>
+  <data name="it_controlBar_dockedThumbnailshideHelpTip"><![CDATA[Nascondi l'aiuto]]></data>
+  <data name="it_controlBar_dockedThumbnailsenterVRTip"><![CDATA[VR mode]]></data>
+  <data name="it_controlBar_dockedThumbnailsenterVRNotTip"><![CDATA[Vr Modo non è disponibile]]></data>
+  <data name="it_controlBar_dockedThumbnailsdisplayControlsTip"><![CDATA[Mostra i controlli]]></data>
+  <data name="it_controlBar_dockedThumbnailshideControlsTip"><![CDATA[Nascondi i controlli]]></data>
+  <data name="it_controlBar_dockedThumbnailsctrlmodeDragTip"><![CDATA[Cambia il modo controlli]]></data>
+  <data name="it_controlBar_dockedThumbnailsctrlmodeMoveTip"><![CDATA[Cambia il modo controlli]]></data>
+  <data name="it_galleryclose_text"><![CDATA[Chiudi]]></data>
+  <data name="it_gallerypicture_title0"><![CDATA[Affreschi dell'Atrio]]></data>
+  <data name="it_gallerypicture_caption0"><![CDATA[Affreschi dell'Atrio]]></data>
+  <data name="it_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title2"><![CDATA[Pavimentazione dell'Atrio]]></data>
+  <data name="it_gallerypicture_caption2"><![CDATA[Pavimentazione dell'Atrio]]></data>
+  <data name="it_gallerypicture_title3"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption3"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title5"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption5"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title6"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption6"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title7"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption7"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title8"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption8"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title9"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption9"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title10"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption10"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title11"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption11"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title12"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption12"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title13"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption13"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title14"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption14"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title15"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption15"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title16"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption16"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title17"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption17"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title18"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption18"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title19"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption19"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title20"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption20"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title21"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption21"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title22"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption22"><![CDATA[]]></data>
+  <data name="it_gallerypicture_title23"><![CDATA[]]></data>
+  <data name="it_gallerypicture_caption23"><![CDATA[]]></data>
+
+
+  <data name="it_vr_setup_hmd0"><![CDATA[SELEZIONA IL TUO HMD]]></data>
+  <data name="it_vr_setup_advanced"><![CDATA[SETTAGGI AVANZATI]]></data>
+  <data name="it_vr_setup_title"><![CDATA[SETTAGGI WEB VR]]></data>
+  <data name="it_vr_setup_dvn1"><![CDATA[Dispositivi::]]></data>
+  <data name="it_vr_setup_siz1"><![CDATA[Dimensioni schermo:]]></data>
+  <data name="it_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="it_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="it_vr_setup_hmd3"><![CDATA[Personalizza]]></data>
+  <data name="it_vr_setup_cal"><![CDATA[Calibrazione giroscopo]]></data>
+  <data name="it_vr_setup_sav"><![CDATA[SALVA]]></data>
+  <data name="it_vr_setup_rst"><![CDATA[RIPRISTINA]]></data>
+  <data name="it_vr_setup_simple"><![CDATA[SEMPLICE]]></data>
+  <data name="it_vr_setup_cls"><![CDATA[CHIUDI]]></data>
+  <data name="it_vr_setup_m31"><![CDATA[SETTAGGI HMD]]></data>
+  <data name="it_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="it_vr_setup_dst1"><![CDATA[Distorzione:]]></data>
+  <data name="it_vr_setup_d2tx"><![CDATA[Distorzione 2:]]></data>
+  <data name="it_vr_setup_vig1"><![CDATA[Vignetta:]]></data>
+  <data name="it_vr_setup_cac1"><![CDATA[Aberrazione cromatica:]]></data>
+  <data name="it_vr_setup_olp1"><![CDATA[Sovrapposizione:]]></data>
+  <data name="it_vr_setup_m35"><![CDATA[RITORNA]]></data>
+  <data name="it_vr_setup_cb1"><![CDATA[GIROSCOPO]]></data>
+  <data name="it_vr_setup_cb2"><![CDATA[Posizionare il dispositivo su una superficie piana e 
+stabile e scegliere CALIBRATE 
+per correggere la deriva del giroscopio .]]></data>
+  <data name="it_vr_setup_cb3"><![CDATA[CALIBRAZIONE]]></data>
+  <data name="it_vr_setup_cb4"><![CDATA[RIPRISTINA]]></data>
+  <data name="it_vr_setup_cb5"><![CDATA[RITORNA]]></data>
+  <data name="it_vr_setup_cb6"><![CDATA[sto calibrando...]]></data>
+  <data name="it_vr_setup_cb7"><![CDATA[Calibrazione eseguita con successo]]></data>
+  <data name="it_vr_setup_cb8"><![CDATA[Calibrazione fallita]]></data>
+  <data name="it_vr_setup_unavailable"><![CDATA[Vr Modo[br] non è disponibile con tuo dispositivo]]></data>
+
+
+  <data name="it_project_description"><![CDATA[<span style="color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">La villa di "Poppea", grandiosa per dimensioni, qualità degli affreschi e adorna di numerose sculture in marmo, venne costruita intorno alla metà del I secolo a.C. e poi ampliata in età claudia.&nbsp;</span><br style="margin: 0px; padding: 0px; color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"><span style="color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">Essa è stata attribuita a&nbsp;</span><em style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-variant-ligatures: normal; orphans: 2; widows: 2; background: rgb(255, 255, 255);">Poppea Sabina</em><span style="color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">, seconda moglie dell'imperatore Nerone, per la presenza di un'iscrizione dipinta su di un'anfora, indirizzata a&nbsp;</span><em style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-variant-ligatures: normal; orphans: 2; widows: 2; background: rgb(255, 255, 255);">Secundus</em><span style="color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">, liberto di&nbsp;</span><em style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 12px; vertical-align: baseline; color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-variant-ligatures: normal; orphans: 2; widows: 2; background: rgb(255, 255, 255);">Poppea</em><span style="color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">: in ogni caso essa doveva appartenere al ricchissimo patrimonio della famiglia imperiale che, come molti altri esponenti del patriziato romano, prediligeva la costa campana, famosa già nell'antichità per la salubrità del clima e lungo la quale amava edificare sontuose ville residenziali (ville di otium).</span><br style="margin: 0px; padding: 0px; color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"><span style="color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">La Villa era disabitata al momento dell'eruzione: non c'erano infatti suppellettili nelle stanze, né vasellame nella cucina. Molti oggetti rinvenuti, come colonne e lucerne, erano accantonati in poche stanze. Materiali edili e lavori in corso dimostrano che nella Villa si stavano riparando i danni di uno dei numerosi terremoti che colpivano con frequenza l'area vesuviana.</span><br style="margin: 0px; padding: 0px; color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"><span style="color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">Essa si sviluppa, lungo un asse est - ovest, in modo simmetrico al corpo centrale, il vecchio nucleo della 'villa', che, sopraelevato, sporge nel giardino ed è affiancato da portici.&nbsp;</span><br style="margin: 0px; padding: 0px; color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"><span style="color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">L'ingresso originario e il prospetto anteriore, non scavato, si trovano oltre il cinquecentesco canale artificiale Conte di Sarno, sotto l'abitato moderno.</span><br style="margin: 0px; padding: 0px; color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"><span style="color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">La villa, circondata da ampi giardini, è dotata, fra l'altro, di un quartiere termale; non mancano gli ambienti produttivi, come quello dove si pigiava l'uva per la produzione del vino.</span><br style="margin: 0px; padding: 0px; color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"><span style="color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">La decorazione pittorica, con finte porte e colonne, è correlata all'architettura reale, creando così giochi prospettici, corrispondenze fra reale ed immaginario. Numerosi e di grande qualità i particolari delle decorazioni pittoriche, costituiti da maschere, cesti di frutta, fiaccole, uccelli.</span><br style="margin: 0px; padding: 0px; color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"><span style="color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">La villa era originariamente adorna di numerose sculture, in prevalenza copie romane di originali di ambito ellenistico del III-II secolo a.C.</span><br style="margin: 0px; padding: 0px; color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"><span style="color: rgb(85, 85, 85); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);">La zona orientale è quasi interamente scavata , mentre quella occidentale non è stata del tutto posta in luce per la presenza della strada moderna e di un edificio militare, l' antica Real Fabbrica d'Armi.&nbsp;</span>]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
