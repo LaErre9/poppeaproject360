@@ -12,7 +12,7 @@ Ora? **Abbandonato**.
 ## il progetto > prova il sito web >
 - Il sito web descrive in un modo avvincente un sito archeologico. Il sito è interamente dedicato alla Villa di Poppea con contenuti multimediali di tipo 2D e a 360°. Tour immersivi nella villa danno la sensazione di muoversi realmente nel Sito Archeologico. <br>
 - Accedere nelle sezioni Virtual Tour visitando ogni singolo Ambiente della Villa a 360° con descrizione testuale, audio e Immagini. <br>
-- Visita "esclusiva" nella Villa B di Lucius Crassius Tertius con immagini a 360°. **ESCLUSIVA** <br>
+- Visita "esclusiva" nella Villa B di Lucius Crassius Tertius con immagini a 360°. **ESCLUSIVA** <br><br>
 Visualizza il sito: <a href = "https://laerre9.github.io/poppeaproject360/" > Poppea Project 360 </a>
 
 ## main contributor >
